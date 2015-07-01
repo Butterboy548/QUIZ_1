@@ -1,0 +1,18 @@
+p {
+    font-family: serif;
+}
+h1 {
+    text-align: center;
+}
+body {
+  background-image: url("imgres.jpg");
+}
+
+.container {
+  width:960px;
+}
+
+.image {
+  height: 400px;
+  width: 600px;
+}
